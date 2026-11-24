@@ -1,0 +1,14 @@
+{
+  "name": "@red-cup-engineering/domestic-energy-computer-system-engineering-services-section",
+  "version": "0.1.0",
+  "description": "Household energy delivery reconciliation.",
+  "type": "module",
+  "exports": {
+    "./reconcile-domestic-energy-exchange": "./scripts/reconcile-domestic-energy-exchange.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/domestic-energy-computer-system-engineering-services-section.git"
+  },
+  "license": "MIT"
+}
